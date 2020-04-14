@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2020-04-14 13:37:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-04-09 13:58:12 -0400"
@@ -38,6 +44,12 @@
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2020-04-10 15:41:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2020-04-14 14:18:04 -0400"
     },
     "done": true
   },
@@ -62,6 +74,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-10 13:29:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2020-04-14 13:37:38 -0400"
     },
     "done": true
   },
@@ -557,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2020-04-14 14:18:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-10 13:29:24 -0400"
@@ -734,6 +758,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-04-09 13:47:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2020-04-14 14:18:04 -0400"
     },
     "done": true
   },
@@ -1007,9 +1037,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-04-14 13:37:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2020-04-09 13:13:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2020-04-14 14:18:11 -0400"
     },
     "done": true
   },
@@ -1169,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2020-04-14 14:18:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-04-10 12:20:40 -0400"
@@ -1185,6 +1233,12 @@
     "criteria": {
       "has_wood_slab": "2020-04-07 13:56:05 -0400",
       "has_planks": "2020-04-07 13:56:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2020-04-14 14:18:11 -0400"
     },
     "done": true
   },
@@ -1233,6 +1287,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2020-04-10 16:09:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-04-14 13:37:38 -0400"
     },
     "done": true
   },
