@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-05-13 12:22:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-04-09 13:13:42 -0400"
@@ -917,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-05-13 12:13:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2020-04-15 15:41:01 -0400"
@@ -986,6 +998,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-05-01 13:39:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2020-05-12 15:25:04 -0400"
     },
     "done": true
   },
@@ -1205,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-05-13 12:22:36 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2020-04-10 16:09:05 -0400"
@@ -1328,6 +1352,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-04-10 12:26:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2020-05-12 14:05:46 -0400"
     },
     "done": true
   },
@@ -2098,6 +2128,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-04-09 13:45:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-05-13 12:22:36 -0400"
     },
     "done": true
   },
